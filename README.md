@@ -1,2 +1,2 @@
 # Microeconometrics: From beginning to giving up
-It's just an informal file for my Microeconometrics homework
+Academic trash can for Microeconometrics homeworks, for the course info, check : https://jiamingmao.github.io/data-analysis/
